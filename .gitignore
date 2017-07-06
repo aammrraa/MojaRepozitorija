@@ -1,0 +1,6 @@
+text.txt
+
+temp/
+*.txt
+index.*
+index.html
